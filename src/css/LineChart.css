@@ -1,0 +1,68 @@
+/* Tooltip */
+.tooltip-board {
+  background-color: rgba(105, 191, 248, 0.5);
+  border: 3px solid rgb(0, 71, 165);
+  color: rgb(255, 255, 255);
+  border-radius: 6px;
+  padding: 0.5em;
+  box-sizing: border-box;
+}
+
+.positive-case {
+  color: #ffa811;
+}
+
+.recovered-case {
+  color: rgb(26, 214, 111);
+}
+
+.death-case {
+  color: rgb(233, 40, 40);
+}
+
+/* Content */
+.line-chart {
+  padding: 1em 2em;
+  margin-top: 30px;
+}
+
+.board-lineChart {
+  background-color: rgb(4, 32, 90);
+  color: white;
+  padding: 1em;
+  box-sizing: border-box;
+  border-radius: 10px;
+}
+
+.line-chart-st {
+  margin-bottom: 30px;
+}
+
+.line-chart-st h2 {
+  color: white;
+  font-weight: 500;
+  font-size: 1.4rem;
+}
+
+.line-chart-st #selectCountry {
+  border: none;
+  color: white;
+  outline: none;
+  background-color: rgb(7, 48, 131);
+  padding: 0.2em;
+  font-size: 1rem;
+  margin: 20px 0;
+}
+
+.line-chart-st #selectCountry option {
+  /* color: black; */
+  /* background-color: #fff; */
+  border: none;
+}
+
+.line-chart-sb {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  height: 400px;
+}
