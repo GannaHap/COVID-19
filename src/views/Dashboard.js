@@ -1,5 +1,7 @@
 import React from 'react';
 
+// import Navbar from '../components/Navbar.js';
+
 import '../css/view/Dashboard.css';
 import StatsCard from '../components/StatsCard';
 import LineChart from '../components/LineChart';
