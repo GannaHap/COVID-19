@@ -1,6 +1,5 @@
 import React from 'react';
 
-// ADD COMMENT
 // import Navbar from '../components/Navbar.js';
 
 import '../css/view/Dashboard.css';
